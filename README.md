@@ -1,3 +1,3 @@
 ## Output
 
-![EchoVerse Output](output.png)
+![EchoVerse Output](output.jpeg)
